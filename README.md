@@ -4,3 +4,6 @@ SRPMs built
 **for** Fedora 28, 29 and rawhide.
 
 Check my [SciPack7](https://copr.fedorainfracloud.org/coprs/subimal/SciPack7/) COPR repository for the build status 
+
+## Acknowledgements
+I have used spec files from https://github.com/hmaarrfk/meep-rpm
